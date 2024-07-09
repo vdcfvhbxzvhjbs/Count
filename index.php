@@ -21,4 +21,3 @@ exec( "echo 0 > $counterFile");
 
 displayCounter($counterFile);
 
-?>
